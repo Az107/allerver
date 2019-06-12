@@ -1,6 +1,6 @@
 {
 	"IP":"",
-	"PORT":3031,
+	"PORT":3000,
 	"TITLE":"servidor config",
 	"plugins":["comands"]
 }
